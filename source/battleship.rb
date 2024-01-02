@@ -49,7 +49,7 @@ end
 
 def placer
   until @xcord + inverseCounter == 11 do  
-    @board4[(@xcord * 4) + (@ycord * 90)] = "O"
+    @board4[((@xcord + 0) * 4) + (@ycord * 90)] = "O"
     @board4[((@xcord + 1) * 4) + (@ycord * 90)] = "O"
     @board4[((@xcord + 2) * 4) + (@ycord * 90)] = "O"
     @board4[((@xcord + 3) * 4) + (@ycord * 90)] = "O"
