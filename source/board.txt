@@ -1,5 +1,5 @@
 A sample board for visualization/testing purposes:
-
+@board4 = "
      A   B   C   D   E   F   G   H   I   J
    +---------------------------------------+
  1 |   |   |   |   |   |   |   |   |   |   |
@@ -22,3 +22,4 @@ A sample board for visualization/testing purposes:
    |---|---|---|---|---|---|---|---|---|---|
 10 |   |   |   |   |   |   |   |   |   |   |
    +---------------------------------------+
+"
