@@ -63,3 +63,6 @@ Refactor your code. Some questions to ask yourself:
 <!-- ##Optimize Your Learning -->
 
 ##Resources
+
+
+github TOKEN: settings/tokens. Found by settings, developer settings, personal access tokens, classic
